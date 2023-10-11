@@ -15,6 +15,7 @@ import java.util.Objects;
 
 @Entity
 @Table(name = Task.TABLE_NAME)
+
 public class Task {
     public static final String TABLE_NAME = "task";
 
@@ -32,8 +33,6 @@ public class Task {
     @NotEmpty
     @Size(min = 1, max = 255)
     private String description;
-
-
 
     public Task() {
     }
@@ -116,5 +115,4 @@ public class Task {
         return result;
     }
 
-    
 }

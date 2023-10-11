@@ -1,0 +1,10 @@
+S:\Estudos\Java\firstAPI\src\main\java\com\akira\firstAPI\FirstApiApplication.java
+S:\Estudos\Java\firstAPI\src\main\java\com\akira\firstAPI\services\UserService.java
+S:\Estudos\Java\firstAPI\src\main\java\com\akira\firstAPI\services\TaskService.java
+S:\Estudos\Java\firstAPI\src\main\java\com\akira\firstAPI\controllers\UserController.java
+S:\Estudos\Java\firstAPI\src\main\java\com\akira\firstAPI\models\User.java
+S:\Estudos\Java\firstAPI\src\main\java\com\akira\firstAPI\repositories\TaskRepository.java
+S:\Estudos\Java\firstAPI\src\main\java\com\akira\firstAPI\models\Task.java
+S:\Estudos\Java\firstAPI\src\main\java\com\akira\firstAPI\configs\WebConfig.java
+S:\Estudos\Java\firstAPI\src\main\java\com\akira\firstAPI\controllers\TaskController.java
+S:\Estudos\Java\firstAPI\src\main\java\com\akira\firstAPI\repositories\UserRepository.java
