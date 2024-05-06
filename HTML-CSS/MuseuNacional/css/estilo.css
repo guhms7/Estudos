@@ -1,0 +1,172 @@
+body{
+    background: #f4f2ec url(../img/fundo.png) repeat-x;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+
+#container{
+    width: 1080px;
+    margin: 0 auto;
+}
+
+a:link, a:active, a:visited{
+    text-decoration: none;
+    color: #af670a;
+}
+
+a:hover{
+    color: #227115;
+}
+
+#logo h1{
+    float: left;
+}
+
+#logo a{
+    width: 248px;
+    height: 28px;
+    margin: 30px;
+    text-indent: -9999px;
+    background: url(../img/logo.png) no-repeat;
+    float: left;
+}
+
+header{
+    padding: 10px 0;
+    height: 55px;
+}
+nav ul{
+    text-decoration: none;
+    list-style: none;
+    float: right;
+}
+
+nav ul li{
+    float:left;
+}
+
+nav ul li a:link{
+    display: block;
+    margin: 25px ;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+}
+
+nav ul li a:hover{
+    border-bottom: 1px solid #535858;
+}
+
+#conteudo{
+    width: 710px;
+    float: left;
+    background: #f4f2ec;
+}
+
+aside{
+    width: 350px;
+    float: right;
+    background: #cdc8b1;
+    padding-bottom: 30px;
+    margin-bottom: 25px;
+}
+
+section#visita{
+    background: #cdc8b1;
+    padding: 10px 27px 27px 27px;
+    margin-top: 10px;
+
+}
+
+h3{
+    color: #227115;
+    font-size: 1.0em;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+h4{
+    color: #86521a;
+    text-transform: uppercase;
+    padding-bottom: 3px;
+    margin-bottom: 0;
+}
+
+input{
+    height: 20px;
+    width: 80px;
+    background: #FFF;
+    border: none;
+    font-size: 1em;
+}
+
+input.campo{
+    border: 1px solid #ada484;
+}
+
+input.botao{
+    background: #9b9271;
+    width: 100%;
+    height: 40px;
+    font-size: 1.2em;
+    color: white;
+}
+fieldset{
+    border: none;
+
+}
+
+legend{
+    display: none;
+}
+
+section#galeria a{
+    display: block;
+    background: url(../img/fundo-foto.png) no-repeat;
+    float: left;
+    padding: 17px 15px 18px 15px;
+    margin: 10px 0 0 20px;
+}
+
+
+#conteudo article{
+    width:310px;
+    float: left;
+}
+article#video{
+    margin-left: 25px;
+}
+
+article#mapa{
+    margin-left: 37px;
+}
+
+article#exposicoes{
+    margin: 15px 0 0 25px;
+}
+
+article#historia{
+    margin: 15px 0 0 37px;
+
+}
+
+
+
+section#galeria img{
+    margin-left: 2px;
+    margin-top: 3px;
+}
+
+#galeria{
+    color: #86521a;
+    padding: 0 27px 0 27px;
+}
+
+footer{
+    clear: both;
+    padding: 20px 0 30px 0;
+    text-align: center;
+    background: url(../img/fundo-rodape.png)no-repeat center top;
+}
+footer>p a{
+    padding: 2px 10px;
+}
