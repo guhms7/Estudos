@@ -1,0 +1,18 @@
+@keyframes animacao-caixa {
+    from{
+        background:red;
+
+    }
+    to{
+        background: purple;
+        border-radius: 250px;
+    }
+}
+
+.caixa{
+    width: 500px;
+    height: 500px;
+    background: red;
+    animation-name: animacao-caixa;
+    animation-duration: 5s;
+}
